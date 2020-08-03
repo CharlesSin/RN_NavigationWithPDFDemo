@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^3.2.1",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "^0.63.2",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-orientation-locker": "^1.1.6",
     "react-native-pdf": "5.1.3",
